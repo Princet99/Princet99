@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Prince Thakur</h1>
 <h3 align="center">A highly motivated graduate with a strong foundation in computer science, proficient in software development, programming, and problem-solving. Skilled in web technologies, databases with a passion for continuous learning and contributing to innovative projects.</h3>
 
-- 📫 How to reach me **pt1133557799@gmail.com**
+- 📫 How to reach me **prince7hakur@outlook.com**
 
 <p align="left">
 </p>
